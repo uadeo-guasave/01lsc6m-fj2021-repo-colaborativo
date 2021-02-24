@@ -14,3 +14,17 @@ footer {
 .copyright{
     margin-left: 80%;
 }
+
+#encabezado {
+    width: 960px;
+    margin: auto;
+}
+
+#encabezado>.logo {
+    width: 50px;
+}
+
+#encabezado h1 {
+    display: inline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
