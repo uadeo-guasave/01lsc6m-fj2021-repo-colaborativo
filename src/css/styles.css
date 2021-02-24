@@ -1,0 +1,16 @@
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(211, 58, 58);
+    color: white;
+  }
+.socialmedialogo{
+    width: 10%;
+    margin-right: 80%;
+}
+.socialmedia{
+    margin-right: 80%;
+}
+.copyright{
+    margin-left: 80%;
+}
